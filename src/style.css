@@ -97,6 +97,9 @@ button:hover {
     background: url("../images/bg-pattern-desktop.svg"),
       linear-gradient(135deg, hsl(0, 0%, 100%), hsl(0, 100%, 98%));
   }
+  main {
+    margin-left: 7em;
+  }
   .desktop {
     display: block;
     float: right;
