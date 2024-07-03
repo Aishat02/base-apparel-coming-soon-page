@@ -58,6 +58,9 @@ form {
   font-size: 14px;
   font-family: "Josefin Sans";
 }
+.email::placeholder {
+  color: var(--DesaturatedRed);
+}
 button {
   background: url("../images/icon-arrow.svg") no-repeat;
   background-color: #f5acad;
